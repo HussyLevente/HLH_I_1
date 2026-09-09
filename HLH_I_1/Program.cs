@@ -16,6 +16,8 @@ namespace HLH_I_1
             double b = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine($"Terület: {2*(a+b)}, Kerület: {a*b}");
+            Console.WriteLine("almafa");
+
         }
     }
 }
